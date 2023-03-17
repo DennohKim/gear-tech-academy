@@ -1,0 +1,1 @@
+/workspace/gear-tech-academy/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/hello_world.wasm: /workspace/gear-tech-academy/hello-world/build.rs /workspace/gear-tech-academy/hello-world/src/lib.rs /workspace/gear-tech-academy/hello-world/target/debug/build/hello-world-daf9f159412e07b3/out/src/lib.rs

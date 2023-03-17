@@ -1,0 +1,12 @@
+/workspace/gear-tech-academy/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/dlmalloc-4445d675919f2d9f.rmeta: /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/lib.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/common.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlmalloc.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlverbose.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/global.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/wasm.rs
+
+/workspace/gear-tech-academy/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/libdlmalloc-4445d675919f2d9f.rlib: /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/lib.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/common.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlmalloc.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlverbose.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/global.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/wasm.rs
+
+/workspace/gear-tech-academy/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/dlmalloc-4445d675919f2d9f.d: /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/lib.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/common.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlmalloc.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlverbose.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/global.rs /workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/wasm.rs
+
+/workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/lib.rs:
+/workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/common.rs:
+/workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlmalloc.rs:
+/workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/dlverbose.rs:
+/workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/global.rs:
+/workspace/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/9135baa/src/wasm.rs:
