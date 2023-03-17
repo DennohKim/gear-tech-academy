@@ -1,0 +1,13 @@
+/workspace/gear-tech-academy/hello-world/target/debug/deps/gear_core_processor-4d4de51cafffd97f.rmeta: /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/lib.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/common.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/configs.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/context.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/executor.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/ext.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/handler.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/precharge.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/processing.rs
+
+/workspace/gear-tech-academy/hello-world/target/debug/deps/gear_core_processor-4d4de51cafffd97f.d: /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/lib.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/common.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/configs.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/context.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/executor.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/ext.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/handler.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/precharge.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/processing.rs
+
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/lib.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/common.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/configs.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/context.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/executor.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/ext.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/handler.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/precharge.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-processor/src/processing.rs:

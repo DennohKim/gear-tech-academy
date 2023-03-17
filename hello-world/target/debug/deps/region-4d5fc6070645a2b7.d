@@ -1,0 +1,15 @@
+/workspace/gear-tech-academy/hello-world/target/debug/deps/region-4d5fc6070645a2b7.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/alloc.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lock.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/unix.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/linux.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/page.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/protect.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/query.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/util.rs
+
+/workspace/gear-tech-academy/hello-world/target/debug/deps/region-4d5fc6070645a2b7.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/alloc.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lock.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/unix.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/linux.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/page.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/protect.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/query.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/util.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/alloc.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/error.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lock.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/mod.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/unix.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/linux.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/page.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/protect.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/query.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/util.rs:

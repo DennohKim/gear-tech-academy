@@ -1,0 +1,11 @@
+/workspace/gear-tech-academy/hello-world/target/debug/deps/gear_backend_wasmi-738020b63b474435.rmeta: /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/lib.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/env.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs/mod.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs/internal.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs_tree.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/memory.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/state.rs
+
+/workspace/gear-tech-academy/hello-world/target/debug/deps/gear_backend_wasmi-738020b63b474435.d: /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/lib.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/env.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs/mod.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs/internal.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs_tree.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/memory.rs /workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/state.rs
+
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/lib.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/env.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs/mod.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs/internal.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/funcs_tree.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/memory.rs:
+/workspace/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/0834ce8/core-backend/wasmi/src/state.rs:
